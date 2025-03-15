@@ -45,11 +45,11 @@ The model is a Random Forest Classifier trained on the heart.csv dataset. The mo
 | 37  | 1   | 2  | 130        | 250  | 0   | 1        | 187    | 0      | 3.5     | 0     | 0  | 2    | The person has heart disease |
 | 41  | 0   | 1  | 130        | 204  | 0   | 0        | 172    | 0      | 1.4     | 2     | 0  | 2    | The person has heart disease |
 | 56  | 1   | 2  | 120        | 236  | 0   | 1        | 178    | 0      | 0.8     | 2     | 0  | 2    | The person has heart disease |
-| 57  | 0   | 0  | 140        | 241  | 0   | 1        | 123    | 1      | 0.2     | 1     | 0  | 3    | The person does NOT have heart disease |
+| 57  | 0   | 0  | 140        | 241  | 0   | 1        | 123    | 1      | 0.2     | 1     | 0  | 3    | The person does not have heart disease |
 | 48  | 1   | 3  | 138        | 275  | 0   | 0        | 182    | 0      | 0.0     | 2     | 0  | 2    | The person has heart disease |
-| 54  | 1   | 1  | 150        | 195  | 0   | 1        | 150    | 0      | 1.0     | 2     | 0  | 3    | The person does NOT have heart disease |
+| 54  | 1   | 1  | 150        | 195  | 0   | 1        | 150    | 0      | 1.0     | 2     | 0  | 3    | The person does not have heart disease |
 | 62  | 0   | 2  | 160        | 164  | 0   | 0        | 145    | 0      | 6.2     | 3     | 3  | 3    | The person has heart disease |
-| 43  | 1   | 0  | 120        | 177  | 0   | 1        | 120    | 1      | 2.5     | 1     | 0  | 2    | The person does NOT have heart disease |
+| 43  | 1   | 0  | 120        | 177  | 0   | 1        | 120    | 1      | 2.5     | 1     | 0  | 2    | The person does not have heart disease |
 | 50  | 0   | 2  | 140        | 217  | 0   | 1        | 169    | 0      | 0.0     | 2     | 0  | 2    | The person has heart disease |
 
 🎯 Future Improvements
